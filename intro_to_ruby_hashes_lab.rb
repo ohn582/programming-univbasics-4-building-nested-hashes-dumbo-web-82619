@@ -13,7 +13,7 @@ end
 
 def monopoly_with_third_tier
    monopoly_hash = {
-    :railroads => {rent_in_dollars: => {}}
+    :railroads => {:rent_in_dollars => {}}
   }
 end
 
